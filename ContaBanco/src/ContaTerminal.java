@@ -1,5 +1,20 @@
 import java.util.Scanner;
 
+/**
+ * <h1>Desafio - Conta Terminal</h1>
+ * O Conta Terminal é um programa que simula a criação de uma conta bancária através do terminal.
+ * <p>
+ * <b>Legacy:</b> Este código foi desenvolvido como parte de um desafio de programação.
+ * <p>
+ * <b>Note:</b> Certifique-se de fornecer entradas válidas ao executar o programa.
+ * 
+ * @author Fabio Francisco
+ * @version 1.0
+ * @since 2025-09-04
+ * 
+ */
+
+
 public class ContaTerminal {
    
     public static void main(String[] args) {
